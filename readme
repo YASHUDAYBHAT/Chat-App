@@ -6,5 +6,5 @@ npm i express mongoose dotenv jsonwebtoken bcryptjs cookie-parser cloudinary soc
 cd frontend
 cd client
 npm i react-router-dom react-hot-toast
-npm i daisyui something
+npm i daisyui " "
  npm i axios zustand
