@@ -1,0 +1,10 @@
+cd backend
+npm init -y
+npm i express mongoose dotenv jsonwebtoken bcryptjs cookie-parser cloudinary socket.io
+
+
+cd frontend
+cd client
+npm i react-router-dom react-hot-toast
+npm i daisyui something
+ npm i axios zustand
