@@ -78,7 +78,7 @@ Create a .env file in the root directory:
       # From root
       npm run dev
 
-**📸 Screenshots**
+# 📸 Screenshots
 ![image](https://github.com/user-attachments/assets/31d1e207-b818-4d64-8d58-658913455a5d)
 
 ![image](https://github.com/user-attachments/assets/05a5bb11-dbb0-45be-9e28-003c17584245)
